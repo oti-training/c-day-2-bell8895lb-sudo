@@ -1,4 +1,4 @@
-break/*
+/*
  * Day 2 Exercise 1: Basic GDB Debugging - Loop Validation
  *
  * TODO: Debug and fix the validate_loop function using GDB.
